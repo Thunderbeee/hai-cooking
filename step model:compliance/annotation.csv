@@ -1,0 +1,204 @@
+ResponseId,MID,treatment,t1,t2,t3,t4,t1n,t2n,average score,best_tip,best_tips,best_tip_open,post_diff,post_similar,post_age,post_gender,post_edu,post_strategy,post_strategy2,post_prioritize,post_change2,Group #,Dim. 1,Dim. 2 (Advantage),Dim. 3 (Explanation),Dim. 4 (Negative / Positive)
+R_1guQ7Dv92ma7uPA,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_3NzjqoZpWmdZsD0,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_1QAPvmjaDK2co3E,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_3HitM2jBSqVLwYl,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_29427dAx2B06Gnn,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_Tkr5GWgP2jiS7OV,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_3iWFCFz99iRriQd,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_XA5IsgFPztgocXD,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_3jVaXMWbYHR33to,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_3M3QMCkcN14arot,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_PIgyoAqiQLgzBbX,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_3GDj8znHOW2wnPB,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_1IAyv9UWH2cdOei,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_2ePxcnig3ySQTOV,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_2diKmopllzDCf7c,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_1ILuNsNkXNGZHgO,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_1NyORhha92ShUVJ,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_2qykfrWYGHb7aIO,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_2uy1KlCbkcxW5lE,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_XhryR3icf9CdPO1,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_3QEKWLEvxrSvf75,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_1hFE9uMXb1Wlp1H,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_3ssnQBSjpqkbRiQ,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_1FFEmriqawo751K,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_3h6cv319sXvnFHs,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_2QWnJi3M6LpqUH9,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_2ypgoh2f2tpygT7,,t1,25,25,,,,,,,,,,,,,,,,,,,,,,
+R_0rpSmV5kSUphP8Z,,t1,26,25,,,,,,,,,,,,,,,,,,,,,,
+R_1HkjKMrsVhyjxiz,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_24C2NpCuun1SGKx,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_2VvVvWzU3W3pNxX,,,,,,,,44,,,,,,,,,,,,,,,,,,
+R_3gLuhhVHNlJEQkG,,,,,,,,48,,,,,,,,,,,,,,,,,,
+R_cNDfebZvMjTp8zv,,t1,51,,,,,,,Chef shouldn't plate,,e,Moderately difficult,,19,Female,High school graduate,,,,,1,,,,
+R_1N9BntMC65Uo6Jd,,t1,29,41,,,,,,Only Server should plate,Chef shouldn't plate,gnc,Neither easy nor difficult,,20,Female,Less than high school,,,,,1,,,,
+R_tEAxrJOsPTNSNz3,,t1,22,21,,,,,,,,,,,,,,,,,,,,,,
+R_31MzlJwlQK59C8O,,t1,31,33,,,,,,,,,,,,,,,,,,,,,,
+R_3HH7y0bGp3SJMO7,,t1,28,24,,,,,,,,,,,,,,,,,,,,,,
+R_2ctq8V6PPAHOwlk,,t1,51,,,,,39,,,,,,,,,,,,,,,,,,
+R_3JgBUFiio9qVys6,,t1,51,,,,,39,,,,,,,,,,,,,,,,,,
+R_12fo5CKsyZ8kC4x,,t1,27,24,,,,,,Chef shouldn't chop,"Chef shouldn't chop,Chef shouldn't plate,Sous-Chef shouldn't cook,Sous-Chef shouldn't plate",None,Slightly difficult,,28,Male,4 year degree,,,,,1,,,,
+R_qWRQoA4pWO034Z3,,t1,51,,,,,40,,Server shouldn't cook,"Server shouldn't cook,Only Server should plate",Just try different things.,Moderately difficult,,23,Female,4 year degree,,,,,2,,,,
+R_DGIMIfiJajDuFYR,,t1,40,44,,,,,,,,,,,,,,,,,,,,,,
+R_RFE8OT9gZ1LiY0h,,t1,25,24,,,,,,Server shouldn't cook,"Chef shouldn't plate,Sous-Chef shouldn't plate,Server shouldn't cook,Only Chef should cook,Only Server should plate,Sous-Chef should cook only once,Chef should chop as long as there is no cooking task",Let the chefs do all the cooking.,Moderately difficult,,43,Female,High school graduate,,,,,3,K4,A0,E0,N0
+R_2VPw3vHS0HPWWTm,,t1,37,26,,,,41,,,,,,,,,,,,,,,,,,
+R_Du6OPkaPvSzyPBv,,t1,31,34,,,,,,,,,,,,,,,,,,,,,,
+R_RaFlLSzqBJhglFf,,t1,29,29,,,,,,Keep everyone busy at all time,Keep everyone busy at all time,divide up tasks and make sure all employees are doing something productive.,Moderately difficult,,34,Female,High school graduate,,,,,2,,,,N0
+R_3MStL3NaL1QpvEt,,t1,25,24,,,,41,,,,,,,,,,,,,,,,,,
+R_22XbVqTzuzMwOpb,,t1,30,31,,,,,,,,,,,,,,,,,,,,,,
+R_2TXySD8oItUYPhI,,t1,28,29,,,,45,,Chef shouldn't plate,"Chef shouldn't plate,Server shouldn't cook,Chef should chop as long as there is no cooking task,Keep everyone busy at all time",pay close attention to how many ticks it takes each person to do the task and then delegate from there,Moderately difficult,,55,Female,2 year degree,,,,,2,,,,N0
+R_33s3RB8kcnWav7S,,t1,31,35,,,,38,,,,,,,,,,,,,,,,,,
+R_1o20iIYlo7rZIV7,,t1,34,31,,,,39,,Server shouldn't cook,Sous-Chef shouldn't cook,it is useful of cooking,Slightly difficult,,57,Male,4 year degree,,,,,2,,,,N0
+R_2XbwengGnYcDPV7,,t1,33,37,,,,37,,Sous-Chef should cook only once,"Server shouldn't cook,Only Server should plate,Sous-Chef should cook only once,Strategically leave some workers idle",Follow the instructions carefully then understand the game.,Slightly difficult,,38,Female,Professional degree,,,,,2,,,,N0
+R_3qe6CqgD9yDJsuB,,t1,34,26,,,,49,,Keep everyone busy at all time,"Chef shouldn't plate,Sous-Chef shouldn't cook,Server shouldn't cook,Only Chef should cook,Only Server should plate,Only Sous-Chef should chop,Sous-Chef should cook only once,Chef should chop as long as there is no cooking task,Keep everyone busy at all time",Always try to figure out what tasks and what workers lead to the least ticks. Always try to have chef cook. ,Slightly difficult,,45,Male,Some college,,,,,3,K4,A0,E1,N0
+R_Z4AjdezfuWRxcWZ,,t1,21,21,,,,39,,Sous-Chef should cook only once,"Chef shouldn't chop,Chef shouldn't plate,Sous-Chef shouldn't cook,Sous-Chef shouldn't plate,Server shouldn't chop,Server shouldn't cook,Only Chef should cook,Only Server should plate,Only Sous-Chef should chop,Sous-Chef should cook only once,Chef should chop as long as there is no cooking task,Keep everyone busy at all time,Strategically leave some workers idle",i canot see the tip,Slightly difficult,,35,Male,Professional degree,,,,,1,,,,
+R_22ojYaJDY4nlAlb,,t1,21,21,,,,,,Only Sous-Chef should chop,Chef shouldn't plate,fctyj,Moderately difficult,,38,Female,4 year degree,,,,,1,,,,
+R_2s6H44ibBp1DhTW,,t1,30,31,,,,39,,Server shouldn't chop,Server shouldn't cook,very tough game,Extremely difficult,,67,Male,4 year degree,,,,,1,,,,
+R_20PajbjpC6cjiO8,,t1,30,22,,,,,,,,,,,,,,,,,,,,,,
+R_1nUYiHCFc5QBOBL,,t1,21,21,,,,39,,Only Chef should cook,"Chef shouldn't chop,Chef shouldn't plate,Only Chef should cook,Only Server should plate,Only Sous-Chef should chop",NONE,Slightly difficult,,40,Female,4 year degree,,,,,1,,,,
+R_3JwV8fiImo8gBa2,,t1,51,,,,,37,,,,,,,,,,,,,,,,,,
+R_1FJJppV3YHRhkwu,,t1,27,23,,,,37,,Server shouldn't cook,"Chef shouldn't plate,Server shouldn't cook,Strategically leave some workers idle",use the people for what they are good at,Moderately difficult,,40,Female,4 year degree,,,,,2,,,,N0
+R_5orYzDuHEAYE6c1,,t1,30,22,,,,43,,Strategically leave some workers idle,"Chef shouldn't plate,Server shouldn't cook,Chef should chop as long as there is no cooking task,Strategically leave some workers idle",Have the chef cook as much as possible.,Slightly difficult,,48,Female,4 year degree,,,,,3,K4,A0,E0,N0
+R_1N3ytfrxDFfeF97,,t1,30,29,,,,37,,Only Chef should cook,"Server shouldn't chop,Only Chef should cook,Keep everyone busy at all time","In general, a strategy game has all of the following elements in varying degree: Players succeed (or lose) based on strategic decisions, not luck. Players have equal knowledge to play; no trivia. Play is based on multiple decisions a person could make on each turn with possible advantages and disadvantages each time.
+",Extremely difficult,,41,Female,4 year degree,,,,,2,,,,N0
+R_2Vqpb6QHYXus0qd,,t1,29,29,,,,,,Chef shouldn't plate,Chef shouldn't plate,none,Neither easy nor difficult,,32,Female,Some college,,,,,1,,,,
+R_YR1oCGKeAdbSaVH,,t1,22,24,,,,37,,Chef shouldn't plate,"Chef shouldn't plate,Server shouldn't cook,Strategically leave some workers idle",I think the one you gave was good (chef should not plate) because it is a waste of their talents.,Moderately difficult,,49,Male,4 year degree,,,,,3,P0,D2,E1,N0
+R_12Aat0Cj6D5jL2v,,t1,51,,,,,37,,,,,,,,,,,,,,,,,,
+R_28O5TyXyk7fCUvL,,t1,24,27,,,,42,,Server shouldn't cook,"Chef shouldn't plate,Sous-Chef shouldn't plate,Server shouldn't cook,Chef should chop as long as there is no cooking task,Strategically leave some workers idle",even if you have to sacrifice one tick to wait for a server to become available do it because it will save ticks,Slightly difficult,,23,Female,Some college,,,,,3,M1,O1,E1,N0
+R_2fs8hX5HYkofNBi,,t1,25,23,,,,42,,Chef shouldn't plate,"Chef shouldn't plate,Server shouldn't chop",Use all of your resources wisely and don't mismanage the workers.,Neither easy nor difficult,,23,Male,2 year degree,,,,,2,,,,N0
+R_3lKymoFIdqkGDVU,,t1,24,26,,,,40,,Only Server should plate,"Chef shouldn't plate,Only Server should plate,Chef should chop as long as there is no cooking task",Use the workers available,Slightly difficult,,25,Female,4 year degree,,,,,2,,,,N0
+R_3lY0xYRYn3HWYdj,,t1,21,21,,,,,,Only Server should plate,"Chef shouldn't chop,Chef shouldn't plate,Server shouldn't cook,Only Server should plate",The server should work twice.,Moderately difficult,,31,Female,4 year degree,,,,,3,M1,O1,E0,N0
+R_x9L90oe6j67SEcV,,t1,51,,,,,,,Chef shouldn't plate,"Only Server should plate,Keep everyone busy at all time","Make sure the server is always working, but give them the easy task.",Slightly difficult,,26,Female,4 year degree,,,,,3,M1,O1,E0,N0
+R_1ieOjdyp6Bb9IzA,,t1,51,,,,,37,,,,,,,,,,,,,,,,,,
+R_0UmdogGXfMWJmUx,,t1,25,44,,,,42,,,,,,,,,,,,,,,,,,
+R_1Kd5p2m9VEsd5zu,,t1,22,26,,,,37,,Chef should chop as long as there is no cooking task,Chef shouldn't plate,Chef shouldn't plate.,Slightly difficult,,37,Female,4 year degree,,,,,3,P0,D2,E0,N1
+R_231caBZlr8EqVew,,t1,29,22,,,,,,Chef shouldn't plate,"Chef shouldn't plate,Strategically leave some workers idle",Make the decision slight slowly and place the works properly to the correct workers.,Slightly difficult,,25,Female,4 year degree,,,,,2,,,,N0
+R_31TsFM9oI8jtzuM,,t1,51,,,,,,,Chef shouldn't plate,"Chef shouldn't plate,Server shouldn't cook,Only Server should plate,Chef should chop as long as there is no cooking task,Strategically leave some workers idle",Never let the chef plate food.,Moderately difficult,,35,Male,4 year degree,,,,,3,P0,D2,E0,N0
+R_Ojxyya19rm01weB,,t1,51,,,,,,,,,,,,,,,,,,,,,,,
+R_3isr5QJnLDyB7cl,,t1,51,,,,,37,,,,,,,,,,,,,,,,,,
+R_3CWdqphW0b2MStp,,t1,21,23,,,,39,,,,,,,,,,,,,,,,,,
+R_29mEs482215kgon,,t1,31,51,,,,,,Keep everyone busy at all time,"Chef shouldn't plate,Only Server should plate,Keep everyone busy at all time",have the workers perform matched tasks from intuition and each step the workers are being utilized,Slightly difficult,,29,Male,4 year degree,,,,,2,,,,N0
+R_2rDEvxAiBH25yCn,,t1,21,21,,,,,,Server shouldn't cook,"Chef shouldn't plate,Server shouldn't cook,Chef should chop as long as there is no cooking task,Keep everyone busy at all time",Always let the chef cook when he is open to cook near the end.,Slightly easy,,48,Male,4 year degree,,,,,3,K4,A0,E0,N0
+R_2SjEDEIpZ8skYa4,,t1,51,,,,,,,,,,,,,,,,,,,,,,,
+R_3hDUgA5IawlutMi,,t1,30,31,,,,36,,,,,,,,,,,,,,,,,,
+R_2aQSzGmhiq8O4lv,,t1,34,33,,,,,,,,,,,,,,,,,,,,,,
+R_2pS44FLACGJRF4a,,t1,22,22,,,,39,,Chef shouldn't plate,"Chef shouldn't plate,Server shouldn't cook,Chef should chop as long as there is no cooking task",Make sure the best person for the job is doing that task.,Slightly difficult,,33,Male,Some college,,,,,2,,,,N0
+R_AaMCmH2MjQ5XYR3,,t1,28,30,,,,,,,,,,,,,,,,,,,,,,
+R_2ayT70iMnfjDQQN,,t1,38,38,,,,48,,Strategically leave some workers idle,Strategically leave some workers idle,its ok if the workers arent working all the time,Slightly difficult,,28,Male,4 year degree,,,,,2,,,,N0
+R_31bAPkcFWMPpiUV,,t1,38,41,,,,43,,,,,,,,,,,,,,,,,,
+R_1GVVS6CCR8J18Vg,,t1,26,26,,,,37,,Chef shouldn't chop,"Chef shouldn't chop,Chef shouldn't plate,Sous-Chef shouldn't cook,Sous-Chef shouldn't plate,Server shouldn't chop,Server shouldn't cook,Only Chef should cook",3,Moderately difficult,,32,Female,Some college,,,,,1,,,,
+R_2bZUV2QtiLBkI4P,,t1,26,32,,,,,,Only Server should plate,Only Server should plate,Nothing.,Slightly difficult,,32,Male,4 year degree,,,,,1,,,,
+R_3sh1RxZaoaUh97J,,t1,51,,,,,,,Keep everyone busy at all time,"Chef shouldn't plate,Chef should chop as long as there is no cooking task,Keep everyone busy at all time,Strategically leave some workers idle",Chef and Sous chef are better at cooking and chopping - though server is not terrible at lower tick cooking. ,Moderately difficult,,42,Female,4 year degree,,,,,3,"K4, C4, K0","A0, A1, D0",E1,N0
+R_24LQwpoV2OQpNNr,,t1,50,51,,,,,,,,,,,,,,,,,,,,,,
+R_1PZfeMMsb11k2Tw,,t1,23,28,,,,43,,,,,,,,,,,,,,,,,,
+R_1o7STWyI7eW9kca,,t1,31,36,,,,39,,,,,,,,,,,,,,,,,,
+R_3qlK1tPCdtEkKPh,,t1,35,38,,,,,,Keep everyone busy at all time,"Chef shouldn't plate,Sous-Chef shouldn't plate,Chef should chop as long as there is no cooking task",Please use the tips provided in the game,Slightly difficult,,22,Female,4 year degree,,,,,3,K2,O1,E0,N0
+R_1gHKUl4hmTOQq7y,,t1,21,21,,,,,,Chef shouldn't plate,"Chef shouldn't plate,Only Chef should cook",Pay attention to the tip but do not get overwhelmed by it.,Slightly difficult,,68,Male,Professional degree,,,,,2,,,,N0
+R_3s5HzndJ0ga0sop,,t1,36,42,,,,39,,,,,,,,,,,,,,,,,,
+R_2rU9aTxAFCrk6Ay,,t1,21,21,,,,,,,,,,,,,,,,,,,,,,
+R_2ExU01eqkOgAgrE,,t1,25,21,,,,38,,Strategically leave some workers idle,"Chef shouldn't plate,Sous-Chef shouldn't plate,Server shouldn't cook,Chef should chop as long as there is no cooking task,Strategically leave some workers idle",Not all three workers need to be working at the same time. Sometimes it is best to wait for a spot to open up that can do the task quicker.,Moderately difficult,,32,Male,2 year degree,,,,,2,,,,N0
+R_1IiutgNWTATXm7I,,t1,28,23,,,,39,,,,,,,,,,,,,,,,,,
+R_1OoQaYxdGrxMwqX,,t1,51,,,,,,,Only Chef should cook,"Only Chef should cook,Only Server should plate",None,Moderately easy,,57,Female,Professional degree,,,,,1,,,,
+R_331HgWoCOUFCbJI,,t1,49,51,,,,36,,Chef shouldn't plate,"Chef shouldn't plate,Strategically leave some workers idle",The chef should not plate.,Moderately difficult,,52,Female,4 year degree,,,,,3,P0,D2,E0,N1
+R_1jrYN6s4wqVHXgF,,t1,28,21,,,,39,,,,,,,,,,,,,,,,,,
+R_3EFh3YtUNV6j8px,,t1,21,21,,,,39,,Chef shouldn't plate,"Chef shouldn't plate,Server shouldn't cook,Only Server should plate",Always have someone doing something.,Moderately easy,,43,Male,4 year degree,,,,,2,,,,N0
+R_1LCFQFbDS8xKfrb,,t1,30,37,,,,,,Strategically leave some workers idle,"Chef shouldn't chop,Chef shouldn't plate,Sous-Chef shouldn't plate,Server shouldn't chop,Only Server should plate,Strategically leave some workers idle","Chefs should cook, and sus-chefs should cook when ches are not available, while servers should plate. Avoid doing otherwise if possible.",Extremely difficult,,29,Male,High school graduate,,,,,3,"K4, P4","A0, A2",E0,N0
+R_1DIKJ0SV6M115U7,,t1,33,48,,,,,,Chef shouldn't plate,"Chef shouldn't plate,Only Chef should cook",The server can plate the burger easily.,Neither easy nor difficult,,31,Female,4 year degree,,,,,3,P4,A2,E0,N0
+R_8l7UF8b8DosHO6t,,t1,27,21,,,,39,,,,,,,,,,,,,,,,,,
+R_333JjFhpLuGjaej,,t1,38,33,,,,35,,,,,,,,,,,,,,,,,,
+R_1mQ5o1UqaJPJNTe,,t1,36,39,,,,39,,Server shouldn't cook,"Chef shouldn't plate,Server shouldn't chop,Server shouldn't cook,Only Chef should cook,Only Server should plate,Chef should chop as long as there is no cooking task,Strategically leave some workers idle",The chef is the best at cooking and make sure that they do the cooking and assign the other tasks to the other workers.,Moderately difficult,,50,Female,Professional degree,,,,,3,K4,A0,E0,N0
+R_2q1sgwq7LIJf0Os,,t1,51,,,,,45,,Strategically leave some workers idle,"Chef shouldn't plate,Strategically leave some workers idle",Only the server should plate.,Slightly difficult,,46,Female,4 year degree,,,,,3,P4,A2,E0,N0
+R_OppKACNksbtz8RP,,t1,33,51,,,,36,,Only Chef should cook,Only Sous-Chef should chop,you receive order make it fat and serve all good,Moderately difficult,,41,Male,4 year degree,,,,,1,,,,
+R_22D2Udo8UCweSWo,,t1,25,29,,,,38,,Server shouldn't cook,"Chef shouldn't chop,Chef shouldn't plate,Sous-Chef shouldn't plate",nice,Slightly difficult,,27,Female,4 year degree,,,,,1,,,,
+R_7OPsIc7NCDbp71v,,t1,21,21,,,,,,Strategically leave some workers idle,"Chef shouldn't plate,Server shouldn't cook,Keep everyone busy at all time,Strategically leave some workers idle",Just allow the server to plate after initial chopping.,Neither easy nor difficult,,30,Male,2 year degree,,,,,3,P4,A2,E0,N0
+R_2aS8Mn15n82wG6T,,t1,24,28,,,,,,Only Server should plate,"Chef shouldn't plate,Only Chef should cook",It was helpful cooking items.,Slightly easy,,36,Male,Professional degree,,,,,1,,,,
+R_2uO0jriCjacBmex,,t1,2,,,,,,,,,,,,,,,,,,,,,,,
+R_2CVv4NSDE4SkU22,,t1,48,35,,,,39,,,,,,,,,,,,,,,,,,
+R_pQcs83rkz3Z2mxb,,t1,25,,,,,37,,,,,,,,,,,,,,,,,,
+R_DOwVqDWhTsSnR9n,,,,,,,,43,,Keep everyone busy at all time,"Only Chef should cook,Only Server should plate,Only Sous-Chef should chop,Chef should chop as long as there is no cooking task,Keep everyone busy at all time",assign the work for server,Extremely easy,,51,Female,4 year degree,,,,,3,M1,O1,E0,N0
+R_3st9dQgP2ylI7hA,,t1,,,,,,,,Only Server should plate,"Chef shouldn't plate,Sous-Chef shouldn't plate,Only Server should plate,Keep everyone busy at all time",The server should always plate.,Slightly difficult,,33,Male,High school graduate,,,,,3,P4,A2,E0,N0
+R_332drgfI8K605IK,,t1,,,,,,,,Only Server should plate,Only Server should plate,none,Slightly difficult,,26,Female,Professional degree,,,,,1,,,,
+R_3Phln7EAPbGLLjM,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_1IEnxoHuwpkI4Ez,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_AcyLApW4OSWhYQx,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_1jJmQhDEmZylYQl,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_1N55s3Kkk4uVjTq,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_3gXEsyL5w3LdWG8,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_PXQTumvhwCh4G8V,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_2SHLlDbn4DA0wdB,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_1l4UVxYhJb8BakZ,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_2tbzTXFALn20vdy,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_3kuAM54gfqyyyJF,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_2qsKwC2aaX0Ndag,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_1mEtwl5hmWvK1nU,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_uf5g4sa0UHyCMBX,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_21Gs2pRjUWA957w,,t1,25,25,,,,,,,,,,,,,,,,,,,,,,
+R_12xtyQ6XoiXe8cH,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_2EuVCGDSKv7kkE9,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_3NHUieVpZ0jdKDX,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_5hZIRXZv5PWJNxD,,t1,39,41,,,,43,,,,,,,,,,,,,,,,,,
+R_UcP5jig454ZdxbH,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_3jZyMlpWg3dgn0R,,t1,,,,,,,,Only Chef should cook,Only Chef should cook,Learn the tick patterns of the workers quickly. This will help you get the best possible outcome.,Slightly difficult,,,,,,,,,2,,,,N0
+R_u8LtbcQrdb4nJIZ,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_2bTuqwD58wIUA3a,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_1Q4mFsGXPKeKVJP,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_elfwlpxYAKIFRJf,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_1jHBO4ptzjznEby,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_24x5Yr024EzG1Ri,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_2dnJ62WIbChsAN5,,t1,24,21,,,,,,,,,,,,,,,,,,,,,,
+R_3sBJGmCmA699t4i,,t1,51,,,,,,,,,,,,,,,,,,,,,,,
+R_3RaYDdyJ4BzxwAF,,t1,26,25,,,,,,,,,,,,,,,,,,,,,,
+R_1n8ji8cSXKg9Sjd,,,,,,,,,,,,,,,,,,,,,,,,,,
+R_86wXin7qk1BmNdn,,t1,28,24,,,,37,,,,,,,,,,,,,,,,,,
+R_2cvdL04XWXC18u5,,t1,25,25,,,,,,,,,,,,,,,,,,,,,,
+R_uevXMHkDQAS4RTr,,t1,51,,,,,40,,Chef shouldn't plate,"Chef shouldn't plate,Server shouldn't cook,Only Chef should cook",don't let the server cook,Slightly easy,,25,,4 year degree,,,,,3,,D0,E0,N0
+R_27a0pozPHYDvp72,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_DCuSo6l4umE4g4F,,t1,34,22,,,,48,,Chef shouldn't plate,"Chef shouldn't plate,Server shouldn't chop,Server shouldn't cook,Keep everyone busy at all time","Give the most technical tasks to the chef or sous chef, and leave plating and serving to the server because they're quicker.",Slightly difficult,,39,,4 year degree,,,,,3,,"A0, A1, A2",E1,N0
+R_1OiDy6DAioz7OBy,,t1,,,,,,37,,,,,,,,,,,,,,,,,,
+R_RwNjxmp7fo60IxP,,t1,21,21,,,,,,Chef should chop as long as there is no cooking task,"Only Server should plate,Only Sous-Chef should chop",None,Moderately difficult,,25,,4 year degree,,,,,1,,,,
+R_2YfjcdTWuH9Mp5P,,t1,26,22,,,,,,Server shouldn't cook,"Sous-Chef shouldn't cook,Server shouldn't chop,Only Server should plate",I suggest looking at whos the slowest at everything and calculating what you should do.,Slightly difficult,,36,,High school graduate,,,,,2,,,,N0
+R_2dAzbfuJd0pETqw,,t1,28,35,,,,,,,,,,,,,,,,,,,,,,
+R_1GOlXzpdJgBLzXZ,,t1,33,38,,,,,,,,,,,,,,,,,,,,,,
+R_d6J11TjEuCjIuTD,,t1,,,,,,39,,,,,,,,,,,,,,,,,,
+R_2rlm9kc2ZhNymZq,,t1,49,51,,,,39,,,,,,,,,,,,,,,,,,
+R_6zdPHhKc9mB2ydj,,t1,35,51,,,,48,,Chef shouldn't plate,"Chef shouldn't plate,Only Server should plate","Keep everyone active.  That's the main thing.  Beyond that, try to keep everyone doing things that are suited to their skills.  Whenever possible, keep the server serving and the cooks cooking.",Moderately difficult,,45,,4 year degree,,,,,3,,"A0, A2",E1,N0
+R_3EKbQGEqGlwr3GN,,t1,26,36,,,,,,Server shouldn't cook,"Chef shouldn't plate,Sous-Chef shouldn't plate,Server shouldn't cook,Only Server should plate,Only Sous-Chef should chop,Sous-Chef should cook only once,Keep everyone busy at all time",Sous-Chef should chop the meat,Moderately difficult,,36,,High school graduate,,,,,3,,A1,E0,N0
+R_bsDM7SK8kdxycZH,,t1,25,26,,,,,,Only Chef should cook,"Only Chef should cook,Keep everyone busy at all time",NONE,Slightly difficult,,33,,4 year degree,,,,,1,,,,
+R_268u3wJshhJBbUL,,t1,28,24,,,,,,,,,,,,,,,,,,,,,,
+R_31cqvc9O7U44h23,,t1,25,23,,,,,,,,,,,,,,,,,,,,,,
+R_1pzmAysWFvTpAPZ,,t1,,,,,,,,,,,,,,,,,,,,,,,,
+R_2AMQoTS9E8Eb7zq,,t1,28,21,,,,35,,,,,,,,,,,,,,,,,,
+R_1Cm8iHVpvdCEtSp,,t1,51,,,,,41,,,,,,,,,,,,,,,,,,
+R_rj6ZxIOrElrhHUZ,,t1,27,25,,,,42,,Keep everyone busy at all time,Keep everyone busy at all time,Just use trial and error.,Moderately difficult,,40,,High school graduate,,,,,2,,,,N0
+R_2sdKNZbt55Ckc9a,,t1,32,34,,,,,,Chef shouldn't plate,"Only Chef should cook,Only Server should plate,Strategically leave some workers idle",FOLLOW THE TIP FOR EACH ROUND,Moderately difficult,,37,,4 year degree,,,,,3,,O1,E0,N0
+R_2wHUy3Gt3DiwNS9,,t1,36,37,,,,36,,,,,Moderately difficult,,,,,,,,,,,,,
+R_3nuDgP3XwcBrXkJ,,t1,33,35,,,,,,,,,,,,,,,,,,,,,,
+R_wXInZWN1SzxVGNj,,t1,25,22,,,,39,,Chef shouldn't plate,Keep everyone busy at all time,Follow the tips I think they work just try to pick the right time to follow them,Slightly difficult,,39,,Some college,,,,,2,,,,N0
+R_3mknTe4De5ePUe1,,t1,40,51,,,,,,,,,,,,,,,,,,,,,,
+R_33r0xjbw4lwKs9B,,t1,23,22,,,,,,Keep everyone busy at all time,"Only Server should plate,Only Sous-Chef should chop,Sous-Chef should cook only once,Keep everyone busy at all time",THIS GAME IS GOOD,Moderately difficult,,24,,4 year degree,,,,,1,,,,
+R_2R4EF04rJxxoxNf,,t1,22,21,,,,,,,,,,,,,,,,,,,,,,
+R_1Oqyld8JrJamHve,,t1,,,,,,35,,,,,,,,,,,,,,,,,,
+R_1Kd6ZvBJNYy0WPy,,t1,51,,,,,,,,,,,,,,,,,,,,,,,
+R_2DM07OMpZclrVlq,,t1,,,,,,36,,Strategically leave some workers idle,"Server shouldn't cook,Only Chef should cook,Chef should chop as long as there is no cooking task,Strategically leave some workers idle","The chef is the fastest at cooking burgers, followed by the sous-chef, and then the server takes the longest to cook the burgers.",Slightly easy,,60,,4 year degree,,,,,3,,"A0, D0",E0,N0
+R_1KkfJAqysWZg2U3,,t1,39,39,,,,41,,,,,,,,,,,,,,,,,,
+R_2Vs7SqqHkwt7vv0,,t1,22,23,,,,,,Strategically leave some workers idle,"Chef shouldn't plate,Server shouldn't chop,Strategically leave some workers idle",Don't be afraid to let your workers be idle for a couple ticks in favor of performing the jobs they are best at. ,Moderately difficult,,46,,2 year degree,,,,,2,,,,N0
+R_1OIGfmY4mLh0rDJ,,t1,29,29,,,,,,Chef shouldn't plate,"Chef shouldn't plate,Server shouldn't cook",Experiment with the options and find what works best for you,Slightly difficult,,,,,,,,,2,,,,N0
+R_Z8N96TEibzXFmyB,,t1,39,23,,,,,,,,,,,,,,,,,,,,,,
+R_3IYtKRJS9Ur4WGW,,t1,22,23,,,,,,,,,,,,,,,,,,,,,,
+R_2zHY8BwtHaF9ZLt,,t1,37,29,,,,39,,,,,,,,,,,,,,,,,,
+R_3qDmMnjX6nWgg8q,,t1,43,38,,,,,,,,,,,,,,,,,,,,,,
+R_2YG5TwxYv8g7l3S,,t1,51,,,,,,,Chef shouldn't plate,"Chef shouldn't plate,Server shouldn't cook,Keep everyone busy at all time",good mind game,Moderately easy,,27,,4 year degree,,,,,1,,,,
+R_smNa9pChQKzHuyR,,t1,28,37,,,,46,,,,,,,,,,,,,,,,,,
+R_3L0eFe04liYrJ6e,,t1,21,21,,,,40,,,,,,,,,,,,,,,,,,
+R_1kMRXqOm2TZCT7D,,t1,40,35,,,,,,Server shouldn't cook,"Chef shouldn't plate,Only Chef should cook,Chef should chop as long as there is no cooking task,Strategically leave some workers idle",Let the chef cook and handle anything intensive tick wise best. Don't let server cook. ,Moderately easy,,24,,Some college,,,,,3,,"A0, D0",E0,N0
+R_3EuN7YsP1LLYQAi,,t1,,,,,,,,Sous-Chef shouldn't plate,"Sous-Chef shouldn't plate,Server shouldn't chop","Play more games. It may seem obvious, but the more video games you play, the more skilled you'll become.",Neither easy nor difficult,,26,,4 year degree,,,,,2,,,,N0
+R_1OTgTd7lB0VIpck,,t1,27,28,,,,,,,,,,,,,,,,,,,,,,
+R_2TyFINmYq604WBc,,t1,26,30,,,,39,,,,,,,,,,,,,,,,,,
+R_2ygtRSgq9C70cKc,,t1,29,34,,,,,,,,,,,,,,,,,,,,,,
+R_2dQ1KoxwC8zKKsZ,,t1,51,,,,,,,Server shouldn't cook,"Chef shouldn't plate,Server shouldn't chop,Only Server should plate",none,Moderately easy,,27,,4 year degree,,,,,1,,,,
+R_3m8YUt51nvAaB4p,,t1,26,29,,,,38,,,,,,,,,,,,,,,,,,
+R_2VeUbxzLyFQY7HT,,t1,,,,,,44,,,,,,,,,,,,,,,,,,
+R_2R3asFR4FbpXMzY,,t1,,,,,,37,,Keep everyone busy at all time,Keep everyone busy at all time,None,Neither easy nor difficult,,25,,4 year degree,,,,,1,,,,
+R_3ewZS9KR6SaExpC,,t1,,,,,,,,Sous-Chef shouldn't cook,Server shouldn't chop,very good,Moderately difficult,,24,,Professional degree,,,,,1,,,,
+R_1EXLt6duH9muFtX,,t1,,,,,,51,,Keep everyone busy at all time,"Only Chef should cook,Only Server should plate",Split the work for all,Slightly difficult,,25,,4 year degree,,,,,2,,,,N0
