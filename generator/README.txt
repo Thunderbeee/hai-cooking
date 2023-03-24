@@ -13,3 +13,5 @@ Requirement:
 
 Command (paste it to the terminal):
 	python -m main --file=./raw/raw-intervention-final.csv 
+
+# please change to your local directory whenever needed
