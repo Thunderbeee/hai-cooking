@@ -1,3 +1,5 @@
+### HAI (Cooking Setting)
+
 Instruction:
 	1. please put the raw dataset (csv) in the file 'raw'
 	2. In terminal, cd to the directory of the file (generator), and run the command line
