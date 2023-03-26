@@ -16,4 +16,4 @@ Requirement:
 	import ast
 
 Command (paste it to the terminal):
-	python -m main --file=./raw/raw-intervention-final.csv 
+	python -m main --file=./raw/raw-intervention-final.csv  
