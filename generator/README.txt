@@ -1,10 +1,9 @@
-Instruction:
-	1. please put the raw dataset (csv) in the file 'raw'
-	2. In terminal, cd to the directory of the file (generator), and run the command line
-	replace the file name and its directory
-	3. The generated dataframes would be appeared in the file 'processed'
+Instructions:
+	1. Please put the raw dataset (.csv format) in the folder 'raw'
+	2. In terminal, cd into the directory of the current folder (generator), and run the command (see below)
+	3. The generated dataframes would be appeared in the folder 'processed'
 
-Requirement:
+Requirements:
 	import pandas as pd
 	from tqdm import tqdm
 	import numpy as np
@@ -12,6 +11,6 @@ Requirement:
 	import ast
 
 Command (paste it to the terminal):
-	python -m main --file=./raw/raw-intervention-final.csv 
+	python -m main --file=./raw/name-of-raw-file.csv 
 
-# please change to your local directory whenever needed
+# Change the file name and directory name whenever necessary
