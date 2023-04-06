@@ -15,5 +15,5 @@ Requirement:
 	import json
 	import ast
  
-Command (paste it to the terminal):
+Command (paste it to the terminal directly):
 	python -m main --file=./raw/raw-intervention-final.csv  
