@@ -14,6 +14,7 @@ Requirement:
 	import numpy as np
 	import json
 	import ast
+pip install -r requirements.txt
  
 Command (paste it to the terminal directly):
 	python -m main --file=./raw/raw-intervention-final.csv  
