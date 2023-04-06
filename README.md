@@ -1,6 +1,6 @@
 ### HAI (Cooking Setting)
 
-##### Generate Data
+##### Generate Data (currently invisible there)
  
 Instruction:
 	1. please put the raw dataset (csv) in the file 'raw'
@@ -14,6 +14,6 @@ Requirement:
 	import numpy as np
 	import json
 	import ast
-
+ 
 Command (paste it to the terminal):
 	python -m main --file=./raw/raw-intervention-final.csv  
