@@ -12,7 +12,7 @@ Requirement:
 	import pandas as pd
 	from tqdm import tqdm
 	import numpy as np
-	import json
+	import json 
 	import ast
 pip install -r requirements.txt
  
