@@ -1,4 +1,4 @@
-### HAI (Cooking Setting)  
+### HAI (Cooking Setting)   
 
 ##### Generate Data (currently invisible there) 
  
