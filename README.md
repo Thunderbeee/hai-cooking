@@ -1,6 +1,6 @@
 ### HAI (Cooking Setting)  
     
-##### Generate Data (currently invisible there) 
+##### Generate Data (currently invisible there)     
  
 Instruction:
 	1. please put the raw dataset (csv) in the file 'raw'
