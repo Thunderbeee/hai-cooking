@@ -1,0 +1,123 @@
+p < 0.05 *
+p < 0.01 **
+p < 0.005 ***
+
+\begin{table}[]
+\begin{tabular}{@{}lllllll@{}}
+\toprule
+Control \& T1 & Round 1 & Round 2 & Round 3 & Round 4 & Round 5 & Round 6 \\
+\midrule
+Sou-Chef Chopping & 0.370 & 0.993 & 0.002 *** & 0.000 *** & 0.000 *** & 0.000 *** \\
+Sou-Chef Cooking & 0.052 & 0.764 & 0.637 & 0.002 *** & 0.000 *** & 0.000 ***\\
+Sou-Chef Plating & 0.620 & 0.434 & 0.870 & 0.000 & 0.002 & 0.000 \\
+Chef Chopping & 0.790 & 0.653 & --- & --- & --- & --- \\
+Chef Cooking & 0.557 & 0.264 & --- & --- & --- & --- \\
+Chef Plating & 0.969 & 0.852 & --- & --- & --- & --- \\
+Server Chopping & 0.594 & 0.342 & 0.048 & 0.000 & 0.000 & 0.000 \\
+Server Cooking & 1.000 & 0.454 & 0.000 & 0.000 & 0.000 & 0.000 \\
+Server Plating & 0.750 & 0.710 & 0.981 & 0.083 & 0.134 & 0.002 \\
+\bottomrule
+\end{tabular}
+\caption{Wilcoxin Test Between Control \& T1}
+\label{fig:sc}
+\end{table}
+
+\begin{table}[]
+\begin{tabular}{@{}lllllll@{}}
+\toprule
+Control \& S1 & Round 1 & Round 2 & Round 3 & Round 4 & Round 5 & Round 6 \\
+\midrule
+Sou-Chef Chopping & 0.100 & 0.935 & 0.028 & 0.010 & 0.029 & 0.011 \\
+Sou-Chef Cooking & 0.006 & 0.106 & 0.884 & 0.132 & 0.945 & 0.593 \\
+Sou-Chef Plating & 0.075 & 0.395 & 0.623 & 0.100 & 0.750 & 0.627 \\
+Chef Chopping & 0.731 & 0.579 & --- & --- & --- & --- \\
+Chef Cooking & 0.902 & 0.550 & --- & --- & --- & --- \\
+Chef Plating & 0.444 & 0.330 & --- & --- & --- & --- \\
+Server Chopping & 0.689 & 0.918 & 0.710 & 0.390 & 0.601 & 0.250 \\
+Server Cooking & 0.796 & 0.080 & 0.253 & 0.004 & 0.003 & 0.009 \\
+Server Plating & 0.920 & 0.085 & 0.899 & 0.915 & 0.100 & 0.699 \\
+\bottomrule
+\end{tabular}
+\caption{Wilcoxin Test Between Control \& S1}
+\label{fig:sc}
+\end{table}
+
+\begin{table}[]
+\begin{tabular}{@{}lllllll@{}}
+\toprule
+T1 \& S1 & Round 1 & Round 2 & Round 3 & Round 4 & Round 5 & Round 6 \\
+\midrule
+Sou-Chef Chopping & 0.487 & 0.998 & 0.333 & 0.029 & 0.002 & 0.002 \\
+Sou-Chef Cooking & 0.668 & 0.414 & 0.370 & 0.025 & 0.000 & 0.000 \\
+Sou-Chef Plating & 0.526 & 0.220 & 0.375 & 0.052 & 0.032 & 0.000 \\
+Chef Chopping & 0.869 & 0.566 & --- & --- & --- & --- \\
+Chef Cooking & 0.754 & 0.189 & --- & --- & --- & --- \\
+Chef Plating & 0.350 & 0.648 & --- & --- & --- & --- \\
+Server Chopping & 0.332 & 0.372 & 0.193 & 0.003 & 0.000 & 0.000 \\
+Server Cooking & 0.718 & 0.332 & 0.005 & 0.000 & 0.000 & 0.000 \\
+Server Plating & 0.957 & 0.363 & 0.474 & 0.074 & 0.002 & 0.000 \\
+\bottomrule
+\end{tabular}
+\caption{Wilcoxin Test Between T1 \& S1}
+\label{fig:sc}
+\end{table}
+
+\begin{table}[]
+\begin{tabular}{@{}lllllll@{}}
+\toprule
+Control \& T1 & Round 1 & Round 2 & Round 3 & Round 4 & Round 5 & Round 6 \\
+\midrule
+Sou-Chef Chopping & 0.458 & 0.508 & 0.049 & 0.007 & 0.000 & 0.003 \\
+Sou-Chef Cooking & 0.099 & 0.183 & 0.656 & 0.027 & 0.001 & 0.002 \\
+Sou-Chef Plating & 0.352 & 0.533 & 0.900 & 0.002 & 0.010 & 0.000 \\
+Chef Chopping & 0.963 & 0.676 & --- & --- & --- & --- \\
+Chef Cooking & 0.602 & 0.078 & --- & --- & --- & --- \\
+Chef Plating & 0.375 & 0.895 & --- & --- & --- & --- \\
+Server Chopping & 0.593 & 0.344 & 0.131 & 0.002 & 0.010 & 0.001 \\
+Server Cooking & 1.000 & 0.325 & 0.000 & 0.000 & 0.000 & 0.000 \\
+Server Plating & 0.847 & 0.420 & 0.900 & 0.307 & 0.653 & 0.057 \\
+\bottomrule
+\end{tabular}
+\caption{t-Test Between Control \& T1}
+\label{fig:sc}
+\end{table}
+
+\begin{table}[]
+\begin{tabular}{@{}lllllll@{}}
+\toprule
+Control \& S1 & Round 1 & Round 2 & Round 3 & Round 4 & Round 5 & Round 6 \\
+\midrule
+Sou-Chef Chopping & 0.228 & 0.638 & 0.166 & 0.183 & 0.226 & 0.270 \\
+Sou-Chef Cooking & 0.129 & 0.153 & 0.796 & 0.360 & 0.271 & 0.503 \\
+Sou-Chef Plating & 0.078 & 0.406 & 0.471 & 0.181 & 0.375 & 0.419 \\
+Chef Chopping & 0.804 & 0.543 & --- & --- & --- & --- \\
+Chef Cooking & 0.859 & 0.953 & --- & --- & --- & --- \\
+Chef Plating & 0.869 & 0.643 & --- & --- & --- & --- \\
+Server Chopping & 0.693 & 1.000 & 0.850 & 0.689 & 0.791 & 0.498 \\
+Server Cooking & 0.863 & 0.075 & 0.324 & 0.046 & 0.046 & 0.105 \\
+Server Plating & 0.937 & 0.047 & 0.712 & 0.534 & 0.053 & 0.545 \\
+\bottomrule
+\end{tabular}
+\caption{t-Test Between Control \& S1}
+\label{fig:sc}
+\end{table}
+
+\begin{table}[]
+\begin{tabular}{@{}lllllll@{}}
+\toprule
+T1 \& S1 & Round 1 & Round 2 & Round 3 & Round 4 & Round 5 & Round 6 \\
+\midrule
+Sou-Chef Chopping & 0.525 & 1.000 & 0.685 & 0.162 & 0.003 & 0.063 \\
+Sou-Chef Cooking & 0.445 & 0.569 & 0.904 & 0.166 & 0.002 & 0.008 \\
+Sou-Chef Plating & 0.361 & 0.155 & 0.368 & 0.092 & 0.236 & 0.006 \\
+Chef Chopping & 0.777 & 0.406 & --- & --- & --- & --- \\
+Chef Cooking & 0.678 & 0.099 & --- & --- & --- & --- \\
+Chef Plating & 0.289 & 0.568 & --- & --- & --- & --- \\
+Server Chopping & 0.344 & 0.426 & 0.166 & 0.012 & 0.018 & 0.005 \\
+Server Cooking & 0.797 & 0.763 & 0.005 & 0.003 & 0.005 & 0.000 \\
+Server Plating & 0.819 & 0.246 & 0.741 & 0.121 & 0.022 & 0.012 \\
+\bottomrule
+\end{tabular}
+\caption{t-Test Test Between T1 \& S1}
+\label{fig:sc}
+\end{table}
